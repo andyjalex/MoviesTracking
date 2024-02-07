@@ -1,10 +1,11 @@
 ## Junior front end assessment for AlmaEconomics
 
 ##Design Decisions.
-
-##1. Loaded all the of the data into the Movies components but this could be controlled higher up.
+## Most of the logic a happens in APP.js. 
 
 
 ##Challenges.
+## Data cleansing
 
-##Tech used 
+##Tech used
+## React, semantic-ui, own css  
