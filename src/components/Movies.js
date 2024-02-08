@@ -16,7 +16,7 @@ const Movies = ({ movies }) => {
       {movies?.slice(0,next)?.map((movie) => {
         console.log()
         const { imdbID: id, Poster: poster, Title: title, Year: year} = movie
-        const url = movie.["Imdb Link"];
+        const url = movie["Imdb Link"];
         return (
             <div className ="movieContainer">
             <article className="movie">
