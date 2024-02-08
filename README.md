@@ -1,7 +1,7 @@
 ## Junior front end assessment for AlmaEconomics
 
 ##Design Decisions.
-## Most of the logic a happens in APP.js. 
+## Most of the logic happens in APP.js. 
 
 
 ##Challenges.
